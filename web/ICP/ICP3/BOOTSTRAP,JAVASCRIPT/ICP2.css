@@ -1,0 +1,26 @@
+/* font-family*/
+html,body{
+    background-color: #db5252;
+}
+h1 {
+    font-family: "Bradley Hand ITC";
+}
+h3 {
+    font-family: "Gabriola";
+}
+h2 {
+    font-family: "Times New Roman";
+}
+
+/*Font-size*/
+body {
+    font-size: 10px;
+}
+
+h1 {
+    text-align: end;
+}
+
+h3 {
+    text-align: end;
+}
