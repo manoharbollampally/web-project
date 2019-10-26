@@ -94,7 +94,7 @@ public class PizzaOrder extends AppCompatActivity{
             // The intent does not have a URI, so declare the "text/plain" MIME type
             emailIntent.setType("plain/text");
             // Recipients
-            emailIntent.putExtra(Intent.EXTRA_EMAIL, new String[] {"PizzaOrder@gmail.com"});
+            emailIntent.putExtra(Intent.EXTRA_EMAIL, new String[] {"manohar.bollampally95@gmail.com"});
             // Adding Subject
             emailIntent.putExtra(Intent.EXTRA_SUBJECT, "Order Summary");
             // Adding the Order Summary Text
